@@ -41,6 +41,34 @@ public class App {
         // Punto10 punto10 = new Punto10();
         // punto10.serieFibonacci();
 
+        //punto 11
+        // Punto11 punto11 = new Punto11();
+        // punto11.calculateAreaOfATriangleHeron();
+
+        //punto 12
+        // Punto12 punto12 = new Punto12();
+        // punto12.validNumberPrimeOrNot();
+
+        //punto 13
+        // Punto13 punto13 = new Punto13();
+        // punto13.roundNumericValue();
+
+        //punto 14
+        // Punto14 punto14 = new Punto14();
+        // punto14.verifyPerfectNumber();
+
+        //punto 15
+        // Punto15 punto15 = new Punto15();
+        // punto15.determineCapicuaNumber();
+
+        // punto 19
+        // Punto19 punto19 = new Punto19();
+        // punto19.textLowecaseAndUppercase();
+
+        // punto 20
+        Punto20 punto20 = new Punto20();
+        punto20.chainText();
+
 
     }
 }
