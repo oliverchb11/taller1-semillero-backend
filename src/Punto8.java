@@ -6,7 +6,7 @@ public class Punto8 {
         String number;
         int guessnumber = (int) ((Math.random() * 100 + 1));
         do {
-             number = JOptionPane
+            number = JOptionPane
                     .showInputDialog("Ingrese un numero para adivinarlo con otro numero entre 1 y 100");
             if (Integer.parseInt(number) > guessnumber) {
                 i++;

@@ -1,5 +1,3 @@
-import javax.swing.JOptionPane;
-
 public class App {
     public static void main(String[] args) throws Exception {
         // punto1
@@ -106,8 +104,25 @@ public class App {
         // punto28.sumOfElementsOfAnArray();
 
         // punto 29
-        Punto29 punto29 = new Punto29();
-        punto29.largestNumberInAnArray();
+        // Punto29 punto29 = new Punto29();
+        // punto29.largestNumberInAnArray();
+
+        // punto 30
+        // Punto30 punto30 = new Punto30();
+        // punto30.removeDuplicateArrayElements();
+
+        // punto 31
+        // Punto31 punto31 = new Punto31();
+        // punto31.orderArrayAsc();
+
+
+        // punto 32
+        // Punto32 punto32 = new Punto32();
+        // punto32.searchElementToArray();
+
+        // punto 33
+        Punto33 punto33 = new Punto33();
+        punto33.countFrequencyElementArray();
 
     }
 }
