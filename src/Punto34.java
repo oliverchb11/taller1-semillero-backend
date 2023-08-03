@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.Collections;
-
 public class Punto34 {
     public void rotationElements() {
         int numerico[] = { 1, 2, 4, 9, 12, 45, 2, 3 };
