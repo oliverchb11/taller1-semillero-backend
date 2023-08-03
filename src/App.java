@@ -59,6 +59,14 @@ public class App {
         // Punto15 punto15 = new Punto15();
         // punto15.determineCapicuaNumber();
 
+        //punto 16
+        // Punto16 punto16 = new Punto16();
+        // punto16.fibonaciInput();
+
+        //punto 17
+        Punto17 punto17 = new Punto17();
+        punto17.allNumbersCousinsRange();
+
         // punto 18
         // Punto18 punto18 = new Punto18();
         // punto18.passwordRandom();
@@ -124,8 +132,8 @@ public class App {
         // punto33.countFrequencyElementArray();
 
         // punto 34
-        Punto34 punto34 = new Punto34();
-        punto34.rotationElements();
+        // Punto34 punto34 = new Punto34();
+        // punto34.rotationElements();
 
         // punto 35
         // Punto35 punto35 = new Punto35();
