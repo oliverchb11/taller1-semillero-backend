@@ -1,8 +1,8 @@
 public class App {
     public static void main(String[] args) throws Exception {
         // punto1
-        // Punto1 punto1 = new Punto1();
-        // punto1.solution();
+        Punto1 punto1 = new Punto1();
+        punto1.solution();
 
         // punto 2
         // Punto2 punto2 = new Punto2();
@@ -64,8 +64,8 @@ public class App {
         // punto16.fibonaciInput();
 
         //punto 17
-        Punto17 punto17 = new Punto17();
-        punto17.allNumbersCousinsRange();
+        // Punto17 punto17 = new Punto17();
+        // punto17.allNumbersCousinsRange();
 
         // punto 18
         // Punto18 punto18 = new Punto18();
