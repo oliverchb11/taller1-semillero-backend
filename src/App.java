@@ -115,14 +115,21 @@ public class App {
         // Punto31 punto31 = new Punto31();
         // punto31.orderArrayAsc();
 
-
         // punto 32
         // Punto32 punto32 = new Punto32();
         // punto32.searchElementToArray();
 
         // punto 33
-        Punto33 punto33 = new Punto33();
-        punto33.countFrequencyElementArray();
+        // Punto33 punto33 = new Punto33();
+        // punto33.countFrequencyElementArray();
+
+        // punto 34
+        Punto34 punto34 = new Punto34();
+        punto34.rotationElements();
+
+        // punto 35
+        // Punto35 punto35 = new Punto35();
+        // punto35.tableMultiplicationOneTen();
 
     }
 }
